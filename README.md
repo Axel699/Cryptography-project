@@ -1,6 +1,6 @@
 # Cryptography-project
 
-The objective of the project I created is to create an interactive Python program that allows the
+The objective of the project I created is an interactive Python program that allows the
 user to:
 
 – Encrypt/decrypt messages using a Caesar cipher.
